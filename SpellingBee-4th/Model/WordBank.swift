@@ -41,7 +41,7 @@ class WordBank{
         list.append(Word(word:"gremlin", sentence:""))
         list.append(Word(word:"whenever", sentence:""))
         list.append(Word(word:"garbage", sentence:""))
-        list.append(Word(word:"Fiji", sentence:""))
+        list.append(Word(word:"fiji", sentence:""))
         list.append(Word(word:"dense", sentence:""))
         list.append(Word(word:"groan", sentence:""))
         list.append(Word(word:"siren", sentence:""))
